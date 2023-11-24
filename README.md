@@ -12,3 +12,7 @@
 command to run: 
 
 `sudo ./mistserver.sh`
+***
+Then provide the terminal command which is from MistServer Download page: https://mistserver.org/ And then Wait! 
+
+Thanks!
