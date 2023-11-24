@@ -1,10 +1,14 @@
-# mistserver
-Mist Server setup for streaming
 
-Create a server on Digital Ocean!
-I used ubuntu in this case.
+# Mist Server setup for streaming
 
-just run the script "mistserver.sh".
-It is recommanded to use sudo.
 
-command: sudo ./mistserver.sh
+1. Create a server on Digital Ocean!
+    - I used ubuntu in this case.
+
+2. run the script "mistserver.sh".
+
+**It is recommanded to use sudo.**
+
+command to run: 
+
+`sudo ./mistserver.sh`
